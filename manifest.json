@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Replay Youtube",
+    "version": "1.0",
+
+    "description": "Replay youtube video.",
+
+    "icons": {
+        "50": "icons/icons50.png"
+    },
+
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+    
+    "browser_action": {
+        "default_icon": "icons/icons50.png",
+        "default_title": "Replay Youtube",
+        "default_popup": "popup/popup.html"
+    }
+}
