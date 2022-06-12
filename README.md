@@ -1,6 +1,11 @@
 # Youtube-replayer
 Firefox extension to replay video on youtube
 
+
+## Try it
+https://addons.mozilla.org/firefox/downloads/file/3961462/dc15b92efc8e478c994b-1.0.xpi
+
+
 ### Installation steps
 - download code
 - open about:debugging in firefox
